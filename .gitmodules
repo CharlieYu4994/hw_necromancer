@@ -1,0 +1,21 @@
+[submodule "rock5b/mpp-git"]
+	path = rock5b/mpp-git
+	url = https://aur.archlinux.org/mpp-git.git
+[submodule "rock5b/ffmpeg-mpp"]
+	path = rock5b/ffmpeg-mpp
+	url = https://aur.archlinux.org/ffmpeg-mpp.git
+[submodule "rock5b/ffmpeg4.4-mpp"]
+	path = rock5b/ffmpeg4.4-mpp
+	url = https://aur.archlinux.org/ffmpeg4.4-mpp.git
+[submodule "rock5b/kodi-nexus-mpp-git.git"]
+	path = rock5b/kodi-nexus-mpp-git.git
+	url = https://aur.archlinux.org/kodi-nexus-mpp-git.git
+[submodule "rock5b/kodi-matrix-mpp-git.git"]
+	path = rock5b/kodi-matrix-mpp-git.git
+	url = https://aur.archlinux.org/kodi-matrix-mpp-git.git
+[submodule "rock5b/linux-radxa-rkbsp5-bin"]
+	path = rock5b/linux-radxa-rkbsp5-bin
+	url = https://aur.archlinux.org/linux-radxa-rkbsp5-bin.git
+[submodule "rock5b/linux-radxa-rkbsp5-git"]
+	path = rock5b/linux-radxa-rkbsp5-git
+	url = https://aur.archlinux.org/linux-radxa-rkbsp5-git.git
